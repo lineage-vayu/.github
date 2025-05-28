@@ -2,7 +2,7 @@
 
 # LineageOS for Xiaomi POCO X3 Pro (vayu)
 
-Welcome to the LineageOS for the Xiaomi POCO X3 Pro, codenamed **vayu**. This repository contains the necessary configurations and source code to build LineageOS for this device.
+Welcome to the LineageOS for the Xiaomi POCO X3 Pro, codenamed **vayu**. This organisation contains the necessary configurations and source code to build LineageOS for this device.
 
 ---
 
